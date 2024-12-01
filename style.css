@@ -1,4 +1,4 @@
-/* body {
+ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -14,9 +14,9 @@
     background: #fff;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-} */
+} 
 
-/* h1 {
+ h1 {
     text-align: center;
     color: #0056b3;
 }
@@ -51,4 +51,4 @@ ul li {
     margin-bottom: 8px;
     padding: 10px;
     border-radius: 5px;
-} */
+} 
